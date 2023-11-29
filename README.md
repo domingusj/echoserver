@@ -1,1 +1,3 @@
 # echoserver
+
+test echoserver
