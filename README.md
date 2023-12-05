@@ -1,3 +1,3 @@
 # echoserver
 
-test echoserver
+test echoserver - ealen/echo-server
